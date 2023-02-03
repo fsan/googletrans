@@ -1,3 +1,9 @@
+# Why?
+
+This is a silly fork from https://github.com/ShivangKakkar/googletrans
+there is a single line with typing that uses new `| None` syntax which makes it a bit harder to make compatible with py3.7
+
+
 # googletrans-py
 
 This is a fork of the [googletrans](https://github.com/ssut/py-googletrans) which makes the original package compatible with the latest versions of `httpx`, `httpcore` and their dependencies. This compatibility makes it possible to use `httpx`'s newer versions than `0.13.3`.
